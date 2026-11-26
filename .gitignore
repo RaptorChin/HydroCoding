@@ -4,3 +4,6 @@ __pycache__/
 
 # Excel 開啟檔案時產生的暫存檔（檔名以 ~$ 開頭）
 ~$*
+
+# 忽略ref case的檔案
+ref case/

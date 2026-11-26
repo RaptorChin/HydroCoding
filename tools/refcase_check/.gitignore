@@ -1,0 +1,3 @@
+# output 資料夾裡是從 ref case 擷取出來的內容（工程資料、人名），不可以進版本控制
+output/
+__pycache__/
